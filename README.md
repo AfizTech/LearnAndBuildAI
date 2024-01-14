@@ -1,6 +1,6 @@
-#  Python Notes
+#  Learn and Build with AI
 
-- This repo contains all the Python and ML Tutorials I share on twitter and YouTube. 
+- This repo contains all the Python, ML and AI Tutorials I share on twitter and YouTube. 
 - Star this repo, if you don't want to miss any update. ⭐️
 
 
